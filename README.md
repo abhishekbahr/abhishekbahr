@@ -1,6 +1,6 @@
 # abhishekbhar
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A Full-Stack Developer biased towards Backend technologies.</h3>
+<h3 align="center">A Full-Stack Developer having expertise in MERN Stack.</h3>
 <img align="right" alt="Coding"  width="500" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbahr&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbahr" /> </p> -->
 
