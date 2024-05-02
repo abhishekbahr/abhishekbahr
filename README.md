@@ -1,8 +1,7 @@
 # abhishekbhar
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A Full-Stack Developer biased towards Backend technologies.</h3>
-<img align="right" alt="Coding" autoplay width="500" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-<img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
+<img align="right" alt="Coding"  width="500" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbahr&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbahr" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/abhishekbh29355" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekbh29355?logo=twitter&style=for-the-badge" alt="abhishekbh29355" /></a> </p>
